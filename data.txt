@@ -43,7 +43,7 @@ Por que você sai da cama todos os dias?
 
 //Ericka Willeman Orben: Porque 'a vida é bonita e é bonita'. << 10 >>
 
-//Doglas Elias Mateus: Para correr atrás dos sonhos. << 9 >>
+//Doglas Elias Mateus: Para correr atrás dos sonhos. << 10 >>
 
 //Kesley Ferreira Alves: Pra concretizar meus objetivos << 10 >>
 
@@ -89,9 +89,9 @@ Por que você sai da cama todos os dias?
 
 //Vinícius dos Santos Fernandes: Eu saio da cama todos os dias pra curtir o dia, trabalhar e tals << 1 >>
 
-//Henrique de Quevedo Franco: Para levantar << 9 >>
-
 //Hudson Uggioni: Porque preciso manter nossa empresa erguida para vocês trabalharem. << 1 >>
+
+//Henrique de Quevedo Franco: Para levantar << 9 >>
 
 //Vinicius Elias Barabas: Para desligar o despertador. << 1 >>
 
@@ -169,7 +169,7 @@ Por que você sai da cama todos os dias?
 
 //Thiago Borges Silveira: Porque eu nasci bonito e não rico. << 1 >>
 
-//Nério Frank da Silveira: Foram meses desempregado antes de entrar aqui, e nesse meio tempo, a moral e o ego vão embora! Acredito que o trabalho duro levanta a moral. E ja que quero ser grande, assim como é a Useall, meter a cara no trabalho e nos estudos é o único caminho! << 24 >>
+//Nério Frank da Silveira: Foram meses desempregado antes de entrar aqui, e nesse meio tempo, a moral e o ego vão embora! Acredito que o trabalho duro levanta a moral. E ja que quero ser grande, assim como é a Useall, meter a cara no trabalho e nos estudos é o único caminho! << 30 >>
 
 //Luiz Otavio Machado Vieira: pra ir ao banheiro << 3 >>
 
@@ -178,6 +178,20 @@ Por que você sai da cama todos os dias?
 //Kevin Nunes Marques: Para desenvolver soluções que realmente impactem na vida das pessoas << 1 >>
 
 //Meiriane Mariot de Moraes Pavanello: Para viver. << 2 >>
+
+//undefined: Por que não tem como ela sair de mim. << 6 >>
+
+//Alexandre Uggioni: Para acordar << 6 >>
+
+//Leonardo da Silva Serafim: Porque tem que trablhar. << 1 >>
+
+//Nereu Lopes Neto: para trabalhar << 11 >>
+
+//Nereu Lopes Neto: pois o sono acaba << 24 >>
+
+//Nereu Lopes Neto: num sei naum << 978 >>
+
+//Nereu Lopes Neto: testeeeeee << 2 >>
 
 Por que você fica 8 horas e 48 minutos por dia tabalhando?
 //Weslen Jorge Lima Borges: Para não trabalhar no sábado. << 85 >>
@@ -402,6 +416,22 @@ Por que você fica 8 horas e 48 minutos por dia tabalhando?
 
 //12345678910: testeteste << 7 >>
 
+//Oséias da Silva Martins: Para fazer o melhor ERP do Brasil! << 4 >>
+
+//Elton do Canto: porque a clt exige << 27 >>
+
+//Nereu Lopes Neto: testeeeeee << 10 >>
+
+//Otomar Rocha Speck: Para chegar no final do dia e ter a satisfação de ter ajudado alguém, contribuido com algo maior... ganhar ou passar algum conhecimento.... << 5 >>
+
+//Alexandre Soriano: Porque ainda não criamos um método de trabalhar menos e entregar mais. << 26 >>
+
+//Rosevania Bariviera: porque quero << 1 >>
+
+//Igor Passarela: Porque em contrato de trabalho devemos cumprir uma carga horaria semanal de 44h. << 124 >>
+
+//Alvaro Brognoli: dasf hdfhasdfh a dfha sfhasfhasfh << 1 >>
+
 Por que você pensa em trabalho quando não deveria estar pensando em trabalho?
 //Rafael Dias Rocha: Porque está sobrecarregado no serviço << 4 >>
 
@@ -529,11 +559,11 @@ Por que você pensa em trabalho quando não deveria estar pensando em trabalho?
 
 //Henrique da Rosa: Porque algo fez lembrar o trabalho << 2 >>
 
-//Thaynã Borges Cardoso Martins: Eu não penso em trabalho quando não devo pensar em trabalho. O importante e se dedicar e fazer sempre o trabalho com excelência e eficiência dentro do horário de expediente, fora dele é se dedicar a nossa família, hobby, laser....isso chama equilibrar a vida. << 93 >>
+//Thaynã Borges Cardoso Martins: Eu não penso em trabalho quando não devo pensar em trabalho. O importante e se dedicar e fazer sempre o trabalho com excelência e eficiência dentro do horário de expediente, fora dele é se dedicar a nossa família, hobby, laser....isso chama equilibrar a vida. << 113 >>
 
 //Filipe Querino dos Santos: Porque ninguém gosta de deixar coisas mal resolvidas ou inacabadas << 130 >>
 
-//Guilherme Crepaldi: a cabeça não para de funcionar nunca! << 353 >>
+//Guilherme Crepaldi: a cabeça não para de funcionar nunca! << 649 >>
 
 //Stephany Costa: Se eu penso em coisas alheias quando era para estar pensando em trabalho posso concluir que o motivo é o mesmo: Os pensamentos ficam dentro da cabeça por isso não conseguimos parar de pensar nunca, é porque a cabeça tá grudada no nosso pescoço. << 41 >>
 
@@ -552,6 +582,44 @@ Por que você pensa em trabalho quando não deveria estar pensando em trabalho?
 //Rafael Chagas: E quem disse que penso em trabalho quando não estou trabalhando? << 9 >>
 
 //Rafael Chagas: E que disse que penso em trabalho quando não estou trabalhando? << 7 >>
+
+//Rafael Chagas: De novo? << 1 >>
+
+//Rafael Chagas: pergunta insistente << 1 >>
+
+//Juliano Cenci: Inferno.iniciarFase(); << 3 >>
+
+//Juliano Cenci: Inferno.renderStageOne(); << 1 >>
+
+//Juliano Cenci: Inferno.renderStageOne() << 4 >>
+
+//Juliano Cenci: Inferno.renderStageOne(teste) << 1 >>
+
+//Thiago Darós: Porque 20% dos problemas que tenho no trabalho representam 80% dos problemas que tenho na vida. << 30 >>
+
+//Michel Diogo Formigoni: Porque somos comprometidos << 28 >>
+
+//Leonardo da Silva Serafim: Pelo próprio compromisso que temos com ele diariamente. << 11 >>
+
+//Juliano Cenci: avisaSucesso << 10 >>
+
+//Juliano Cenci: Sucesso << 3 >>
+
+//Juliano Cenci: me.rendered << 1 >>
+
+//João vitor ferreira leal: pois continuamos ligado << 13 >>
+
+//Juliano Cenci: async: false << 2 >>
+
+//Juliano Cenci: async:false << 1 >>
+
+//Juliano Cenci: async false << 2 >>
+
+//Juliano Cenci: async << 1 >>
+
+//Josué Trombim: Porque o trabalho ocupa mais parte do nosso tempo do que qualquer outra coisa kkk << 26 >>
+
+//Sandro Nazário: Acredito que seja automático do cérebro, quando se fica por muito tempo concentrado em uma atividade, ele acaba memorizando isso e levando esses pensamentos com ele. << 16 >>
 
 Por que as pessoas são massa?
 //Catia berti da silva: Nem todas hehehe << 45 >>
@@ -598,6 +666,8 @@ Por que café?
 //Michel Diogo Formigoni: Cafeína deixa mais ligado << 28 >>
 
 //Filipe Querino dos Santos: Desempenho << 15 >>
+
+//Doglas Elias Mateus: Porque é bom! << 1 >>
 
 Por que 3 canecas de café por dia?
 //Artini Scarabelot: Eliminar o sono! << 106 >>
@@ -773,6 +843,8 @@ Por que correr 20km nos finais de semana?
 
 //LILIAN NART GRASSI MAZZORANA: Quem gosta desse esporte é um prazer. << 14 >>
 
+//João vitor ferreira leal: para uma saúde saudavel << 13 >>
+
 Por que treinar no horário de almoço?
 //Rodrigo Milanez Rodrigues: Não treino, << 3 >>
 
@@ -788,9 +860,9 @@ Por que treinar no horário de almoço?
 
 //Juliano Cenci: << 8 >>
 
-//Juliano Cenci: ., << 1 >>
-
 //Juliano Cenci: ., << 54 >>
+
+//Juliano Cenci: ., << 1 >>
 
 Por que treinar antes de vir trabalhar?
 //João Vitor Fernandes Canuto: Treinar?????????? << 1 >>
@@ -809,6 +881,8 @@ Por que ir almoçar no shopping nas sextas-feiras?
 //Gustavo Martins: Eu no caso não almoço no shopping, mas como seria sexta feira o pessoal gostaria de comer algo diferente sendo o final da semana! << 14 >>
 
 //LILIAN NART GRASSI MAZZORANA: Não vou. Muito caro. << 11 >>
+
+//Alexandre Uggioni: Para se distrair e comer algo bom. << 6 >>
 
 Por que o biscoito recheado acaba primeiro?
 //Edenilso Torres Zanoni: Porque o recheio desperta interesse em querer aproveitar o que há de mais especial entre as outras opções. << 4 >>
@@ -921,6 +995,16 @@ Por que não comprar salgadinhos no aniversário de empresa?
 
 //Rafael Chagas: pq não sou eu quem está de aniversário << 1 >>
 
+//Juliano Cenci: Inferno.iniciarFase(); << 4 >>
+
+//Juliano Cenci: Inferno.iniciarFase() << 3 >>
+
+//Juliano Cenci: Inferno.iniciarFase(teste) << 2 >>
+
+//Thaynã Borges Cardoso Martins: Porque não << 2 >>
+
+//Rosevania Bariviera: absurdo não comprar << 1 >>
+
 Por que bolo de caneca esse ano?
 //Weslen Jorge Lima Borges: Para comemorar com você mesmo nessa pandemia. << 4 >>
 
@@ -936,6 +1020,8 @@ Por que não tem coqueiros na frente da Useall?
 //Rafael Chagas: pq senão seria coqueirall... << 3 >>
 
 //LILIAN NART GRASSI MAZZORANA: Falta de espaço? << 15 >>
+
+//Nereu Lopes Neto: pois ngm plantou << 11 >>
 
 Por que sair do bronze é tão difícil?
 //Michel Diogo Formigoni: não entendi << 1 >>
@@ -982,6 +1068,10 @@ Por que além da festa de final de ano sempre fazemos outras festas também?
 
 //Rafael Chagas: 365 dias em um ano para ter apenas uma festa? << 4 >>
 
+//Josué Trombim: Porque final de ano é feito pra comemorar as cagadas e os sucessos decorridos do ano << 26 >>
+
+//Otomar Rocha Speck: Valorizar o que fizemos, nossas conquistas << 5 >>
+
 Por que 42?
 //Rodrigo Milanez Rodrigues: e por que não? << 16 >>
 
@@ -992,6 +1082,8 @@ Por que 42?
 //Rafael Chagas: Porque 43 é outro número. << 1 >>
 
 //Lucas de Souza da Rosa: quarenta e dois << 1 >>
+
+//Juliano Cenci: me.rendered << 1 >>
 
 Por que cooperativas de energia?
 //Kevin Marques: Porque as de água não precisavam de sistema << 1 >>
@@ -1009,6 +1101,8 @@ Por que cooperativas de energia?
 //Oziel Silveira Junior: Justamente para não pagar a conta de luz. << 1 >>
 
 //LILIAN NART GRASSI MAZZORANA: Tem diversas cooperativas << 13 >>
+
+//Elton do Canto: porque é um mercado pouco explorado e que rende $$$ << 27 >>
 
 Por que comércio e serviços?
 //Carolina Barreto Maximo Forgiarini: ????????????? << 22 >>
@@ -1033,6 +1127,8 @@ Por que não manter a cor verde da casa?
 //Guilherme De Luca: Toda empresa tem a sua cultura. Na Useall criamos essa cultura para sossegar as lombrigas que tem nas barrigas dos veteranos. << 53 >>
 
 //Guilherme De Luca: Porque era uma cor feia << 1 >>
+
+//Alvaro Brognoli: dasf hdfhasdfh a dfha sfhasfhasfh << 1 >>
 
 Por que os cachorros da vizinha são tão barulhentos as vezes?
 //Guilherme Bortolotto Peritto: Por que eles gostam de uma revoada canina. << 3 >>
@@ -1093,12 +1189,16 @@ Por que investir em moedas que nem podemos tocar?
 
 //Rafael Chagas: e não pode trocar? Deu ruim! << 1 >>
 
+//Alexandre Soriano: Porque o toque é desnecessário para sentir o valor. << 26 >>
+
 Por que esse layout?
 //EDSON LUIZ DAMAZIO JUNIOR: Para não desviar o foco que são as perguntas e respostas. << 25 >>
 
 //Lincoln Machado: por falta de criatividade << 1 >>
 
 //LILIAN NART GRASSI MAZZORANA: Quem desenvolveu acreditou ser mais prático e simples << 16 >>
+
+//Rafael Chagas: e porquê não? << 1 >>
 
 Por que pixels?
 //Oziel Silveira Junior: mínimo 10 caracteres << 3 >>
@@ -1148,6 +1248,8 @@ Por que ouvir música durante o trabalho?
 
 //Kevin Nunes Marques: Porque ajuda a concentrar << 1 >>
 
+//Nério Frank da Silveira: nunca entendi quem faz. << 6 >>
+
 Por que vidros escuros?
 //Kesley Ferreira Alves: Para ter mais privacidade << 23 >>
 
@@ -1196,6 +1298,8 @@ Por que dois monitores?
 
 //Filipe Querino dos Santos: Desempenho << 4 >>
 
+//Leonardo da Silva Serafim: Produtividade e melhores condições de trabalho também. << 11 >>
+
 Por que caminhar no parque depois do trabalho?
 //Weslen Jorge Lima Borges: Para arejar a cabeça e fazer exercícios. << 6 >>
 
@@ -1212,6 +1316,8 @@ Por que caminhar no parque depois do trabalho?
 //Kevin Nunes Marques: ajuda a desestressar << 1 >>
 
 //Meiriane Mariot de Moraes Pavanello: Eu não caminho, mas deve ser bom para respirar um ar puro e recarregar as energias. << 2 >>
+
+//Oséias da Silva Martins: Pra melhorar a saúde e contemplar as árvores, os pássaros e tudo o mais... << 4 >>
 
 Por que a segunda-feira está tão longe da sexta-feira, e a sexta está tão perto da segunda?
 //Salesio Eduardo: Tudo que é bom dura pouco. << 1 >>
@@ -1235,7 +1341,9 @@ Por que a primeira vela acesa do advento no domingo foi verde e não vermelha?
 
 //LILIAN NART GRASSI MAZZORANA: Essa eu também não sei. << 6 >>
 
-//Thaynã Borges Cardoso Martins: Porque a cor verde significa esperança. << 93 >>
+//Thaynã Borges Cardoso Martins: Porque a cor verde significa esperança. << 111 >>
+
+//Nereu Lopes Neto: cor da esperança << 24 >>
 
 Por que IZY?
 //João Vitor Fernandes Canuto: Pq sim.....é isso ai << 4 >>
@@ -1249,6 +1357,14 @@ Por que IZY?
 //Jeremias Miguel: gg izi fellas << 1 >>
 
 //Rafael Chagas: vem do inglês easy? << 1 >>
+
+//Juliano Cenci: async: false << 6 >>
+
+//Nereu Lopes Neto: testeeeeee << 10 >>
+
+//Sandro Nazário: Para empresas que querem crescer! << 7 >>
+
+//Sandro Nazário: Sistema de Gestão Online para o controle administrativo e financeiro da sua empresa! << 9 >>
 
 Por que não?
 //Edeval Torres Junior: Porque não << 13 >>
@@ -1265,6 +1381,8 @@ Por que não?
 
 //Juliano Cenci: Porque não << 79 >>
 
+//Juliano Cenci: avisaSucesso << 13 >>
+
 Por que o vinho seco é molhado?
 //João Vitor Fernandes Canuto: por que não é seco! << 1 >>
 
@@ -1278,7 +1396,7 @@ Por que o vinho seco é molhado?
 
 //LILIAN NART GRASSI MAZZORANA: Não sei dizer. << 14 >>
 
-//Guilherme Crepaldi: porque está em estado liquido << 353 >>
+//Guilherme Crepaldi: porque está em estado liquido << 649 >>
 
 Por que tantos por quê?
 //Ângelo José da Rosa: Porque vocês instigar nossa curiosidade e fazer todo mundo ficar ansioso pra jogar(?) << 2 >>
@@ -1291,10 +1409,14 @@ Por que tantos por quê?
 
 //Douglas Dagostin Bittencourt: Boa pergunta! Essa vou ficar devendo. << 2 >>
 
+//Nereu Lopes Neto: num sei naum << 978 >>
+
 Por que o terceiro andar é laranja?
 //Carlos Marcelo Carpes: Porque já está maduro << 1 >>
 
 //Rafael Chagas: pq aos poucos amadurece << 2 >>
+
+//Nereu Lopes Neto: testeeeeee << 2 >>
 
 Por que continuar o Play 21?
 //Elton do Canto: Não sei.... não participei. << 45 >>
@@ -1320,6 +1442,10 @@ Por que continuar o Play 21?
 //Nério Frank da Silveira: Além de ser cultursesco, é a melhor forma de garantir mais 3 salgadaços de graça durante o ano kkk << 24 >>
 
 //Rafael Chagas: pq vai até 31 << 1 >>
+
+//undefined: Para ajudar o proximo << 6 >>
+
+//Leonardo da Silva Serafim: Para se divertir e ajudar o próximo. << 1 >>
 
 Por que devolver a sala de jogos?
 //Davi Freitas da Silva: Pra rolar uma maior integração entre equipes << 1 >>
@@ -1365,6 +1491,8 @@ Por que precisamos lavar a toalha se já estamos limpos depois do banho?
 
 //Rafael Chagas: deve ser para por o pijama de bolso. Aliás, para que serve um bolso no pijama? << 1 >>
 
+//Igor Passarela: Pois o banho elimina apenas uma parte de micro-organismos, que a tolha limpa ajuda eliminar ao se secar. Também existem micro-organismos no ar que podem se impregnar na toalha... << 124 >>
+
 Por que infinitas possibilidades?
 //Catia berti da silva: Para não ter só uma << 1 >>
 
@@ -1391,6 +1519,8 @@ Por que um torneio de Mario Kart?
 //Weslen Jorge Lima Borges: Para divertir o pessoal kkk << 3 >>
 
 //LILIAN NART GRASSI MAZZORANA: Não sei.. Mas sou do tempo do Mario. << 21 >>
+
+//Thiago Darós: Porque o layout possuia traços que remetia ao jogo e um torneio desse jogo, que é bastante simples, poderia ser divertido. << 20 >>
 
 Por que o Weslen e o Gabriel Mandelli são tão curiosos?
 //Michel Diogo Formigoni: Porque é da natureza deles << 1 >>
@@ -1421,12 +1551,18 @@ Por que o Weslen e o Gabriel Mandelli são tão curiosos?
 
 //Alessandro Nunes dos Santos Junior: Dois metidos isso sim kkkkk << 1 >>
 
+//Michel Diogo Formigoni: A natureza deles << 28 >>
+
 Por que invadir o "site" da Useall?
 //Catia berti da silva: Para dar emoção << 1 >>
 
 //Vitor Ramos da Silveira: Buscar informações e ficar um passo a frente (antiético) << 2 >>
 
 //LILIAN NART GRASSI MAZZORANA: Invadir? Qual o objetivo.? << 22 >>
+
+//Rafael Chagas: Pois é... poderiam bater à porta << 1 >>
+
+//Thiago Darós: Esse tipo de atitude e motivações que levam a ela não fasem parte de minha natureza, então não sei responder ao certo. Mas um bom motivo seria invadir o "site" da Useall, a pedido da Useall, para testar a segurança do "site". << 10 >>
 
 Por que que a bota a gente calça, e a calça a gente bota?
 //João Pedro Ugioni Demo: Não necessariamente se bota a calça e a calça a gente bota. Pode ser que se coloque a calça e se coloque a bota << 13 >>
@@ -1438,4 +1574,4 @@ Por que que a bota a gente calça, e a calça a gente bota?
 //Rafael Chagas: Porque se tiramos a tira, a tira atira na tia da tira. << 2 >>
 
 Fase 1
-411 partcipantes
+445 partcipantes
