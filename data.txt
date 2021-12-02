@@ -193,6 +193,8 @@ Por que você sai da cama todos os dias?
 
 //Nereu Lopes Neto: testeeeeee << 2 >>
 
+//João Vitor de Fraga Venancio: Esperança de alcançar meus objetivos futuros, me superar a cada dia e ter bons momentos com meus familiares e amigos. << 9 >>
+
 Por que você fica 8 horas e 48 minutos por dia tabalhando?
 //Weslen Jorge Lima Borges: Para não trabalhar no sábado. << 85 >>
 
@@ -326,13 +328,13 @@ Por que você fica 8 horas e 48 minutos por dia tabalhando?
 
 //Cléo Constantino: Para receber meu salário! << 1 >>
 
-//Cléo Constantino: Para receber meu salário! << 1 >>
-
 //Cléo Constantino: Para receber meu salário no mês seguinte! << 1 >>
 
-//Wilgner Viana da conceição: Fácil, programar e criar coisas é primeiro o meu hobby, depois o meu ofício, então já passaria uma boa parte do dia fazendo isso mesmo que não estivesse trabalhando. O esquema é que, trabalhar com isso rende uma boa grana tbm, então é simplesmente unir o agradável ao útil. << 13 >>
+//Cléo Constantino: Para receber meu salário! << 1 >>
 
 //Weslen Jorge Lima Borges: Para não trabalharmos no sábado. << 1 >>
+
+//Wilgner Viana da conceição: Fácil, programar e criar coisas é primeiro o meu hobby, depois o meu ofício, então já passaria uma boa parte do dia fazendo isso mesmo que não estivesse trabalhando. O esquema é que, trabalhar com isso rende uma boa grana tbm, então é simplesmente unir o agradável ao útil. << 13 >>
 
 //Weslen Jorge Lima Borges: Segundo o sindicato é para não trabalhar até meio-dia no sábado. << 16 >>
 
@@ -432,13 +434,15 @@ Por que você fica 8 horas e 48 minutos por dia tabalhando?
 
 //Alvaro Brognoli: dasf hdfhasdfh a dfha sfhasfhasfh << 1 >>
 
-//Marieli Rodrigues dos Santos Menegas: Porque o trabalho enobrece o homem. E depois gosto do que eu faço e por fim, não menos importante preciso pagar as contas kkkk. << 17 >>
+//Marieli Rodrigues dos Santos Menegas: Porque o trabalho enobrece o homem. E depois gosto do que eu faço e por fim, não menos importante preciso pagar as contas kkkk. << 22 >>
 
 //Elton Jhons Stosl: Para fechar a carga horário. << 7 >>
 
 //Marieli Rodrigues dos Santos Menegas: Porque o trabalho enobrece o homem. E depois gosto do que eu faço e por fim, não menos importante preciso pagar as contas kkkk. << 31 >>
 
 //João Paulo Pacheco da Silva: A jornada de oito horas faz referência a reivindicação do movimento operário pela redução da jornada de trabalho e o estabelecimento das oito horas de trabalho diárias ou 48 horas semanais, que teve origem nas condições penosas de trabalho da Revolução Industrial na Grã Bretanha em meados do século XIX. Robert Owen difundiu a ideia que a qualidade do trabalho de um trabalhador tem uma relação diretamente proporcional com a qualidade de vida do mesmo e para qualificar a produção de cada trabalhador, é indispensável fornecer melhorias nas áreas de salários, habitação, higiene e educação, proibir o trabalho infantil e determinar uma quantidade máxima de horas de trabalho de dez horas e meia. Para 1817 ele formulou o objetivo do dia de oito horas e cunhou o lema de oito horas de trabalho, oito horas para viver e oito horas de descanso (8 hours labour, 8 hours recreation, 8 hours rest). Fonte: Confia (Wikipédia) << 6 >>
+
+//Douglas Steiner: Utilidade..... << 5 >>
 
 Por que você pensa em trabalho quando não deveria estar pensando em trabalho?
 //Rafael Dias Rocha: Porque está sobrecarregado no serviço << 4 >>
@@ -495,9 +499,9 @@ Por que você pensa em trabalho quando não deveria estar pensando em trabalho?
 
 //Elen Daiana Pereira Silvano: Por que eu trabalho. << 1 >>
 
-//Lucas Pizzoni: porque quere não é poder, eu não queria ta pensando mas estou << 10 >>
-
 //João vitor ferreira leal: porque a cabeça fica ligada no trabalho mesmo após. << 4 >>
+
+//Lucas Pizzoni: porque quere não é poder, eu não queria ta pensando mas estou << 10 >>
 
 //giovan de bem: Quando eu não deveria pensar em trabalho? E por que? << 1 >>
 
@@ -553,6 +557,8 @@ Por que você pensa em trabalho quando não deveria estar pensando em trabalho?
 
 //Willi Villi Viana: Porque a necessidade de buscar um futuro melhor me faz continuar lutando todos os dias. << 19 >>
 
+//Juliano Cenci: $(function() { var div = $("#div"); // seleciona a div específica $("body").on("click", function (e) { if (div.has(e.target).length || e.target == div[0]) return; alert("Você clicou fora da div!"); }); }) << 1 >>
+
 //Juliano Cenci: $(document).on("click", function (e) { var obj = 'item', id = $(e.target).attr('id'); if (id==obj) return; if ($("#"+obj+" #"+id).length > 0) return; $("#"+obj).hide(); }); << 5 >>
 
 //Gustavo Rocha Torquato: Porque não pensar em trabalho sendo que a maioria do tempo que passamos é aqui? << 33 >>
@@ -567,11 +573,9 @@ Por que você pensa em trabalho quando não deveria estar pensando em trabalho?
 
 //Thaynã Borges Cardoso Martins: Eu não penso em trabalho quando não devo pensar em trabalho. O importante e se dedicar e fazer sempre o trabalho com excelência e eficiência dentro do horário de expediente, fora dele é se dedicar a nossa família, hobby, laser....isso chama equilibrar a vida. << 113 >>
 
-//Juliano Cenci: $(function() { var div = $("#div"); // seleciona a div específica $("body").on("click", function (e) { if (div.has(e.target).length || e.target == div[0]) return; alert("Você clicou fora da div!"); }); }) << 1 >>
-
 //Filipe Querino dos Santos: Porque ninguém gosta de deixar coisas mal resolvidas ou inacabadas << 130 >>
 
-//Guilherme Crepaldi: a cabeça não para de funcionar nunca! << 648 >>
+//Guilherme Crepaldi: a cabeça não para de funcionar nunca! << 649 >>
 
 //Stephany Costa: Se eu penso em coisas alheias quando era para estar pensando em trabalho posso concluir que o motivo é o mesmo: Os pensamentos ficam dentro da cabeça por isso não conseguimos parar de pensar nunca, é porque a cabeça tá grudada no nosso pescoço. << 41 >>
 
@@ -628,6 +632,10 @@ Por que você pensa em trabalho quando não deveria estar pensando em trabalho?
 //Josué Trombim: Porque o trabalho ocupa mais parte do nosso tempo do que qualquer outra coisa kkk << 26 >>
 
 //Sandro Nazário: Acredito que seja automático do cérebro, quando se fica por muito tempo concentrado em uma atividade, ele acaba memorizando isso e levando esses pensamentos com ele. << 16 >>
+
+//Douglas Favarin Pescador: Se a pessoa se organizar, montar um cronograma de trabalho, estar ciente das adversidades que possam acontecer e estar focado em resolver os problemas. A pessoa NÃO pensa em trabalho quando não deveria estar pensando. << 3 >>
+
+//Alessandro Nunes dos Santos Junior: testando de novo << 1 >>
 
 Por que as pessoas são massa?
 //Catia berti da silva: Nem todas hehehe << 45 >>
@@ -749,9 +757,9 @@ Por que laranja?
 
 //Luiz Gustavo Uggioni Savi: Porque da laranja se faz o melhor suco << 47 >>
 
-//Rafael Dias Rocha: ..................... << 1 >>
-
 //Rafael Dias Rocha: ................................... << 1 >>
+
+//Rafael Dias Rocha: ..................... << 1 >>
 
 //Rafael Dias Rocha: ................................................. << 1 >>
 
@@ -854,6 +862,8 @@ Por que correr 20km nos finais de semana?
 //LILIAN NART GRASSI MAZZORANA: Quem gosta desse esporte é um prazer. << 14 >>
 
 //João vitor ferreira leal: para uma saúde saudavel << 13 >>
+
+//Douglas Steiner: Saúde..... << 5 >>
 
 Por que treinar no horário de almoço?
 //Rodrigo Milanez Rodrigues: Não treino, << 3 >>
@@ -961,6 +971,8 @@ Por que fazer reuniões que poderiam ser um e-mail?
 //Bruno Silva Daniel: Vamos ser simplista ai poh << 3 >>
 
 //Bruno Silva Daniel: Vamos ser simplista ai poh << 4 >>
+
+//Douglas Favarin Pescador: Contato humano, reforçar comprometimento, feedback instantâneo (as vezes somente observando as expressões) << 3 >>
 
 Por que ir almoçar em Nova Veneza nos finais de ano?
 //Catia berti da silva: mudar a rotina << 1 >>
@@ -1340,11 +1352,13 @@ Por que a segunda-feira está tão longe da sexta-feira, e a sexta está tão pe
 
 //LILIAN NART GRASSI MAZZORANA: Vixi.. que coisa. << 16 >>
 
-//Juliano Cenci: $(document).on("click", function (e) { var obj = 'item', id = $(e.target).attr('id'); if (id==obj) return; if ($("#"+obj+" #"+id).length > 0) return; $("#"+obj).hide(); }); << 5 >>
-
 //Juliano Cenci: /*foradacurva*/$(function() { var div = $("#div"); // seleciona a div específica $("body").on("click", function (e) { if (div.has(e.target).length || e.target == div[0]) return; alert("Você clicou fora da div!"); }); }) << 1 >>
 
+//Juliano Cenci: $(document).on("click", function (e) { var obj = 'item', id = $(e.target).attr('id'); if (id==obj) return; if ($("#"+obj+" #"+id).length > 0) return; $("#"+obj).hide(); }); << 5 >>
+
 //Rafael Chagas: para ficar mais tempo ocupado com coisas uteis (ou deveria) rsrs << 1 >>
+
+//João Vitor de Fraga Venancio: para aproveitarmos mais os momentos que temos se sexta a segunda. << 9 >>
 
 Por que a primeira vela acesa do advento no domingo foi verde e não vermelha?
 //Kesley Ferreira Alves: Porque quem escolheu a cor tem mal gosto kkk << 8 >>
@@ -1410,7 +1424,7 @@ Por que o vinho seco é molhado?
 
 //LILIAN NART GRASSI MAZZORANA: Não sei dizer. << 14 >>
 
-//Guilherme Crepaldi: porque está em estado liquido << 648 >>
+//Guilherme Crepaldi: porque está em estado liquido << 649 >>
 
 Por que tantos por quê?
 //Ângelo José da Rosa: Porque vocês instigar nossa curiosidade e fazer todo mundo ficar ansioso pra jogar(?) << 2 >>
@@ -1433,9 +1447,9 @@ Por que o terceiro andar é laranja?
 //Nereu Lopes Neto: testeeeeee << 2 >>
 
 Por que continuar o Play 21?
-//Guilherme Venturini: Sou novato, desconheço o play 21. << 2 >>
-
 //Elton do Canto: Não sei.... não participei. << 45 >>
+
+//Guilherme Venturini: Sou novato, desconheço o play 21. << 2 >>
 
 //Weslen Jorge Lima Borges: Por que é massa. << 1 >>
 
@@ -1473,6 +1487,8 @@ Por que devolver a sala de jogos?
 //Vinícius dos Santos Fernandes: pra mim não tem motivo nenhum, nunca usei a sala de jogos desde quando entrei na useall << 1 >>
 
 //LILIAN NART GRASSI MAZZORANA: Se devolver as sala dos jogos tem que fazer uma sala para as "meninas" conversar << 28 >>
+
+//Alessandro Nunes dos Santos Junior: testando de novo << 1 >>
 
 Por que Exaltasamba toca pagode e Zeca Pagodinho toca samba?
 //Catia berti da silva: Estilos musicais << 1 >>
@@ -1580,7 +1596,7 @@ Por que invadir o "site" da Useall?
 
 //Thiago Darós: Esse tipo de atitude e motivações que levam a ela não fasem parte de minha natureza, então não sei responder ao certo. Mas um bom motivo seria invadir o "site" da Useall, a pedido da Useall, para testar a segurança do "site". << 10 >>
 
-//Marieli Rodrigues dos Santos Menegas: Isso não ocorre no meu setor rsrsrs, geralmente quem leva é meio aleatório. << 9 >>
+//Marieli Rodrigues dos Santos Menegas: Isso não ocorre no meu setor rsrsrs, geralmente quem leva é meio aleatório. << 14 >>
 
 Por que que a bota a gente calça, e a calça a gente bota?
 //João Pedro Ugioni Demo: Não necessariamente se bota a calça e a calça a gente bota. Pode ser que se coloque a calça e se coloque a bota << 13 >>
@@ -1592,4 +1608,4 @@ Por que que a bota a gente calça, e a calça a gente bota?
 //Rafael Chagas: Porque se tiramos a tira, a tira atira na tia da tira. << 2 >>
 
 Fase 1
-450 partcipantes
+454 partcipantes
