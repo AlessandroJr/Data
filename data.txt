@@ -141,7 +141,7 @@ Por que você sai da cama todos os dias?
 
 //Carlos Marcelo Carpes: Porque os boletos batem na porta << 1 >>
 
-//Lucas de Souza da Rosa: Porque meus boletos não vão se pagar sozinhos << 4 >>
+//Lucas de Souza da Rosa: Porque meus boletos não vão se pagar sozinhos << 33 >>
 
 //Evandro Menegaz de Oliveira: Porque graças a DEUS ele tem me dado fôlego de vida. :) << 1 >>
 
@@ -196,6 +196,14 @@ Por que você sai da cama todos os dias?
 //João Vitor de Fraga Venancio: Esperança de alcançar meus objetivos futuros, me superar a cada dia e ter bons momentos com meus familiares e amigos. << 9 >>
 
 //Guilherme Bortolotto Peritto: Para levantar << 1 >>
+
+//Ericka Willeman Orben: Porque viver é massa! << 1 >>
+
+//Davi Freitas da Silva: Para fuçar esse site no intervalo << 1 >>
+
+//Edenilso Torres Zanoni: Para viver, aproveitar o tempo produzindo coisas, relações, amizade, ensinando e aprendendo, desconstruir aquilo que já ficou obsoleto e se abrir a mente para novo sem perder a essência do que é essencial a vida. << 3 >>
+
+//KatriniAlamar: testes << 1 >>
 
 Por que você fica 8 horas e 48 minutos por dia tabalhando?
 //Weslen Jorge Lima Borges: Para não trabalhar no sábado. << 85 >>
@@ -452,6 +460,18 @@ Por que você fica 8 horas e 48 minutos por dia tabalhando?
 
 //Alexandre Soriano: Porque não descobrimos ainda que a entrega vale mais do que o tempo para entregar. << 5 >>
 
+//aaaaaaaaaaaaa: aaaaaaaaaaaaaaa << 1 >>
+
+//Isabel Cristina Colombo Duarte: Boa pergunta, poderíamos trabalhar somente 8 horas por dia. Acho muito mais agradável. << 33 >>
+
+//Jadson Sartor Laurindo: .sdasdasdasdasdasdasd << 6 >>
+
+//Vinicius Cesconeto Baranzelli: Só quero meu pcsinho gamer. Eu continuo vindo aqui todo dia e lendo os códigos e ainda não descobri nada, tem mesmo algo escondido ou é apenas a fase um normal ? << 1 >>
+
+//teste: testesteste << 1 >>
+
+//Marcos Vinicius Cardoso: Pagar contas << 1 >>
+
 Por que você pensa em trabalho quando não deveria estar pensando em trabalho?
 //Rafael Dias Rocha: Porque está sobrecarregado no serviço << 4 >>
 
@@ -547,7 +567,7 @@ Por que você pensa em trabalho quando não deveria estar pensando em trabalho?
 
 //Juliano Cenci: ., << 55 >>
 
-//Thaynã Borges Cardoso Martins: Eu não penso em trabalho quando não devo pensar em trabalho. O importante e se dedicar e fazer sempre o trabalho com excelência e eficiência dentro do horário de expediente, fora dele é se dedicar a nossa família, hobby, laser....isso chama equilibrar a vida << 155 >>
+//Thaynã Borges Cardoso Martins: Eu não penso em trabalho quando não devo pensar em trabalho. O importante e se dedicar e fazer sempre o trabalho com excelência e eficiência dentro do horário de expediente, fora dele é se dedicar a nossa família, hobby, laser....isso chama equilibrar a vida << 156 >>
 
 //Gustavo Rocha Torquato: Por que não pensar em trabalho sendo que passamos a maior parte das nossas vidas trabalhando? << 374 >>
 
@@ -579,7 +599,7 @@ Por que você pensa em trabalho quando não deveria estar pensando em trabalho?
 
 //Henrique da Rosa: Porque algo fez lembrar o trabalho << 2 >>
 
-//Thaynã Borges Cardoso Martins: Eu não penso em trabalho quando não devo pensar em trabalho. O importante e se dedicar e fazer sempre o trabalho com excelência e eficiência dentro do horário de expediente, fora dele é se dedicar a nossa família, hobby, laser....isso chama equilibrar a vida. << 113 >>
+//Thaynã Borges Cardoso Martins: Eu não penso em trabalho quando não devo pensar em trabalho. O importante e se dedicar e fazer sempre o trabalho com excelência e eficiência dentro do horário de expediente, fora dele é se dedicar a nossa família, hobby, laser....isso chama equilibrar a vida. << 143 >>
 
 //Filipe Querino dos Santos: Porque ninguém gosta de deixar coisas mal resolvidas ou inacabadas << 130 >>
 
@@ -653,6 +673,30 @@ Por que você pensa em trabalho quando não deveria estar pensando em trabalho?
 
 //Guilherme Coelho: idem << 1 >>
 
+//Alessandro Nunes dos Santos Junior: aaaaaaaaaaaaaaa << 1 >>
+
+//RENATO TORRES: Bom pergunta kkkkkkkkkkkkkk << 1 >>
+
+//LILIAN NART GRASSI MAZZORANA: Responsabilidade. << 2 >>
+
+//LILIAN NART GRASSI MAZZORANA: Responsabilidade. << 37 >>
+
+//Leonardo S: Porque vivemos para o trabalho. << 6 >>
+
+//LUTHIERI DE AGUIAR ELIAS: Porque depois de quase 10 anos trabalhando na empresa o sistema já é tratado como um filho. E um filho sempre é lembrado! << 8 >>
+
+//carolina b maximo forgiarini: Não penso.... << 11 >>
+
+//Mari Ângela Luciano: Por que o cérebro não desliga, hehe.. e as vezes o insights ocorre fora do horário. << 11 >>
+
+//Guilherme Crepaldi: dependendo da rotina, trabalho é um ciclo vicioso << 83 >>
+
+//LILIAN NART GRASSI MAZZORANA: Responsabilidade << 15 >>
+
+//LILIAN NART GRASSI MAZZORANA: ResponsabilidadenÃ << 1 >>
+
+//Andrew Dutra Jorge: Porque tenho que responder as perguntas? << 2 >>
+
 Por que as pessoas são massa?
 //Catia berti da silva: Nem todas hehehe << 45 >>
 
@@ -668,6 +712,10 @@ Por que as pessoas são massa?
 
 //Marlon de Bem: Porque são únicas << 1 >>
 
+//LILIAN NART GRASSI MAZZORANA: Massa é tudo de bom. << 1 >>
+
+//Guilherme Crepaldi: Nem todas são! mas isso depende muito do ponto de vista, pessoas podem ser boas para umas e para outras não. << 83 >>
+
 Por que tem uma mancha no vidro?
 //Rafael Dias Rocha: Sei lá............. << 12 >>
 
@@ -681,8 +729,18 @@ Por que tem uma mancha no vidro?
 
 //Marieli Rodrigues dos Santos Menegas: Isso não ocorre no meu setor rsrsrs, geralmente quem leva é meio aleatório. << 31 >>
 
+//Alessandro Nunes dos Santos Junior: aaaaaaaaaaaaaaa << 1 >>
+
+//LILIAN NART GRASSI MAZZORANA: Algo aconteceu << 1 >>
+
+//Lucas de Souza da Rosa: porque ninguém limpa << 1 >>
+
 Por que servir?
 //Gustavo Rocha Torquato: Porque não servir? << 45 >>
+
+//Lucas de Souza da Rosa: Porque é o mantra da empresa << 2 >>
+
+//LILIAN NART GRASSI MAZZORANA: Servir. Essa palavra tem várias ações. Ajudar, doar o tempo a atenção o respeito entre tantas ações. << 1 >>
 
 Por que café?
 //Eduardo Freitas: Porque café é quentinho, cheiroso e me deixa mais ligado. << 4 >>
@@ -702,6 +760,8 @@ Por que café?
 //Filipe Querino dos Santos: Desempenho << 15 >>
 
 //Doglas Elias Mateus: Porque é bom! << 1 >>
+
+//Lucas de Souza da Rosa: Também me faço essa pergunta, negócio ruim << 1 >>
 
 Por que 3 canecas de café por dia?
 //Artini Scarabelot: Eliminar o sono! << 106 >>
@@ -730,6 +790,8 @@ Por que 3 canecas de café por dia?
 
 //Rafael Chagas: poderia ser somente o café... haja caneca! << 1 >>
 
+//LILIAN NART GRASSI MAZZORANA: Eu tomo mais. << 1 >>
+
 Por que faturar contratos?
 //Marco Antônio Accorsi Lisboa Filho: Para o recolhimento das retenções e obrigações fiscais, entre outros. << 3 >>
 
@@ -744,6 +806,12 @@ Por que faturar contratos?
 //Túlio Gabriel Domingos: Pra useall não ficar pobre e não nos demitir << 59 >>
 
 //Eduardo Cizeski Meneghel: Essa é uma reflexão que não estou disposto a fazer no momento, desculpe. << 6 >>
+
+//LUTHIERI DE AGUIAR ELIAS: Pra garantir nosso PLR! << 8 >>
+
+//Lucas de Souza da Rosa: Porque é preciso dinheiro << 2 >>
+
+//LILIAN NART GRASSI MAZZORANA: é uma ação para confirmar o que foi realizado contratado, executado << 1 >>
 
 Por que isso?
 //Guilherme Bortolotto Peritto: Também não sei << 1 >>
@@ -770,6 +838,12 @@ Por que isso?
 
 //Leonardo S: klççlkdasdasdasdsdasdas << 1 >>
 
+//Ericka Willeman Orben: Porque sim << 1 >>
+
+//LILIAN NART GRASSI MAZZORANA: Questionamentos. << 1 >>
+
+//LILIAN NART GRASSI MAZZORANA: Questionamentos. Para entender melhor << 1 >>
+
 Por que laranja?
 //KatriniAlamar: E agora?! será que é porque remete alegria e animo ou porque lembra fogo e estão sempre apagando fogo << 1 >>
 
@@ -793,12 +867,14 @@ Por que laranja?
 
 //Vinicius Danielski Milanez: Por estar ocultando algo w(ﾟДﾟ)w << 3 >>
 
+//LILIAN NART GRASSI MAZZORANA: Depende do que estamos falando. Não é minha cor favorita. << 1 >>
+
 Por que azul?
 //Yuri Boppre da Silva: Por que não? << 15 >>
 
 //Weslen Jorge Lima Borges: é piada para daltonico? kkkk << 3 >>
 
-//LILIAN NART GRASSI MAZZORANA: Depende do que estamos falando. << 12 >>
+//LILIAN NART GRASSI MAZZORANA: Depende do que estamos falando. << 14 >>
 
 //LILIAN NART GRASSI MAZZORANA: Depende do que estamos falando << 7 >>
 
@@ -834,6 +910,12 @@ Por que verde?
 
 //Gustavo Rocha Torquato: Por que o palmeiras foi campeão << 5 >>
 
+//LILIAN NART GRASSI MAZZORANA: Verde é minha cor favorita. Na pergunta anterior expliquei mais. << 1 >>
+
+//Lucas de Souza da Rosa: porque não verde? << 1 >>
+
+//Lucas de Souza da Rosa: de novo??? << 1 >>
+
 Por que vidros adesivados?
 //Gustavo Rocha Torquato: Por que não vidros adesivados? << 19 >>
 
@@ -846,6 +928,10 @@ Por que vidros adesivados?
 //LILIAN NART GRASSI MAZZORANA: Foi escolha da pessoa que adquiriu << 13 >>
 
 //Michel Diogo Formigoni: Decoração para ficar bonito << 3 >>
+
+//LILIAN NART GRASSI MAZZORANA: Escolha de quem adquiriu o produto << 1 >>
+
+//LILIAN NART GRASSI MAZZORANA: Foi uma escolha de quem adquiriu o produto << 1 >>
 
 Por que teto de gesso?
 //Elton do Canto: porque o custo de produção é mais barato, junto também com peso, o que ajuda aliviar toda estrutura do prédio. o que acaba reduzindo o custo de produção. << 229 >>
@@ -870,6 +956,10 @@ Por que teto de gesso?
 
 //Jadson Sartor Laurindo: Porque é mais bonito. kkkk << 24 >>
 
+//Vinicius Cesconeto Baranzelli: Facil e pratico. << 1 >>
+
+//LILIAN NART GRASSI MAZZORANA: Escolha de quem adquiriu o produto << 1 >>
+
 Por que correr 20km nos finais de semana?
 //João vitor ferreira leal: para manter uma saúde saudavel << 13 >>
 
@@ -884,6 +974,8 @@ Por que correr 20km nos finais de semana?
 //João vitor ferreira leal: para uma saúde saudavel << 13 >>
 
 //Douglas Steiner: Saúde..... << 5 >>
+
+//LILIAN NART GRASSI MAZZORANA: Desafio. Pra quem gosto. Adrenalina. Saúde << 1 >>
 
 Por que treinar no horário de almoço?
 //Rodrigo Milanez Rodrigues: Não treino, << 3 >>
@@ -903,6 +995,18 @@ Por que treinar no horário de almoço?
 //Juliano Cenci: ., << 1 >>
 
 //Juliano Cenci: ., << 54 >>
+
+//LILIAN NART GRASSI MAZZORANA: Talvez por falta de tempo. << 1 >>
+
+//LILIAN NART GRASSI MAZZORANA: Acredito que por falta de tempo nos outros horários << 1 >>
+
+//Mari Ângela Luciano: Por que é o horário vago que se tem. << 11 >>
+
+//Lucas de Souza da Rosa: não sei quem faz isso, mas não acho que seja uma boa ideia << 2 >>
+
+//LILIAN NART GRASSI MAZZORANA: Talvez por falta de tempo pra fazer outro horário << 1 >>
+
+//LILIAN NART GRASSI MAZZORANA: Talvez por falta de tempo em outro horário. << 1 >>
 
 Por que treinar antes de vir trabalhar?
 //João Vitor Fernandes Canuto: Treinar?????????? << 1 >>
@@ -924,6 +1028,8 @@ Por que ir almoçar no shopping nas sextas-feiras?
 
 //Alexandre Uggioni: Para se distrair e comer algo bom. << 6 >>
 
+//LILIAN NART GRASSI MAZZORANA: Muito caro. Não vou. << 1 >>
+
 Por que o biscoito recheado acaba primeiro?
 //Edenilso Torres Zanoni: Porque o recheio desperta interesse em querer aproveitar o que há de mais especial entre as outras opções. << 4 >>
 
@@ -932,6 +1038,8 @@ Por que o biscoito recheado acaba primeiro?
 //Matheus Cataneo: Por causa do Kevin, ele come tudo << 1 >>
 
 //Rafael Chagas: pq nunca tem << 1 >>
+
+//Lucas de Souza da Rosa: porque é melhor << 1 >>
 
 Por que os novatos sempre pagam caixas de bombom pra sala?
 //Weslen Jorge Lima Borges: Por que isso só acontece no Desenv? << 1 >>
@@ -960,6 +1068,8 @@ Por que os novatos sempre pagam caixas de bombom pra sala?
 
 //Marieli Rodrigues dos Santos Menegas: Isso não ocorre no meu setor rsrsrs, geralmente quem leva é meio aleatório. << 8 >>
 
+//Andrew Dutra Jorge: Porque tenho que responder as perguntas? << 2 >>
+
 Por que café saudável?
 //Weslen Jorge Lima Borges: Por que a gente ta se alimentando mal. << 1 >>
 
@@ -974,6 +1084,12 @@ Por que café saudável?
 //Vitor Corrêa: Para incentivar o cuidado com a saúde através da alimentação << 2 >>
 
 //Guilherme Coelho: Por que café não saudável? << 1 >>
+
+//LILIAN NART GRASSI MAZZORANA: Alimentação saudável << 2 >>
+
+//LILIAN NART GRASSI MAZZORANA: Já respondi. << 1 >>
+
+//LILIAN NART GRASSI MAZZORANA: Alimentação saudável << 1 >>
 
 Por que fazer reuniões que poderiam ser um e-mail?
 //Weslen Jorge Lima Borges: Por que queremos o contato. << 1 >>
@@ -998,6 +1114,8 @@ Por que fazer reuniões que poderiam ser um e-mail?
 
 //Douglas Favarin Pescador: Contato humano, reforçar comprometimento, feedback instantâneo (as vezes somente observando as expressões) << 3 >>
 
+//LILIAN NART GRASSI MAZZORANA: Acredito que o olho no olho é mais verdadeiro << 1 >>
+
 Por que ir almoçar em Nova Veneza nos finais de ano?
 //Catia berti da silva: mudar a rotina << 1 >>
 
@@ -1014,6 +1132,14 @@ Por que ir almoçar em Nova Veneza nos finais de ano?
 //Rafael Chagas: nunca nem vi << 1 >>
 
 //Alexandre Soriano: Porque não dá para ir na Veneza original. << 5 >>
+
+//Lucas de Souza da Rosa: porque la tem uns restaurantes bons << 2 >>
+
+//LILIAN NART GRASSI MAZZORANA: No meu caso é por gostar de comida Italiana. Como com frequência esse tipo de comida em casa.. mas adoro. << 1 >>
+
+//Thaynã Borges Cardoso Martins: Porque os restaurantes de lá são show << 1 >>
+
+//Thaynã Borges Cardoso Martins: Porque os restaurantes de lá são show. << 30 >>
 
 Por que sempre comprar salgadinhos no aniversário?
 //Rafael Dias Rocha: Para ficar com cheiro de frituras << 4 >>
@@ -1036,6 +1162,8 @@ Por que sempre comprar salgadinhos no aniversário?
 
 //Nério Frank da Silveira: Além de ser cultursesco, é a melhor forma de garantir mais 3 salgadaços de graça durante o ano kkk << 13 >>
 
+//LILIAN NART GRASSI MAZZORANA: Confraternização << 1 >>
+
 Por que não comprar salgadinhos no aniversário de empresa?
 //teste fazendo teste: teste!@#$%%¨& << 1 >>
 
@@ -1055,6 +1183,16 @@ Por que não comprar salgadinhos no aniversário de empresa?
 
 //Rosevania Bariviera: absurdo não comprar << 1 >>
 
+//Leonardo S: É importante sempre celebrar, por menor que seja a comemoração. << 6 >>
+
+//LILIAN NART GRASSI MAZZORANA: Confraternização e é mais barato. << 1 >>
+
+//LILIAN NART GRASSI MAZZORANA: Confraternização e é mais barato << 1 >>
+
+//Edenilso Torres Zanoni: Quando for o aniversário da empresa seria legal todos comemorarem mais um ciclo concluido com sucesso e colaboração de todos para construção de novos trabalhos e bons frutos. << 1 >>
+
+//Lucas de Souza da Rosa: Porque é muito caro << 2 >>
+
 Por que bolo de caneca esse ano?
 //Weslen Jorge Lima Borges: Para comemorar com você mesmo nessa pandemia. << 4 >>
 
@@ -1072,6 +1210,12 @@ Por que não tem coqueiros na frente da Useall?
 //LILIAN NART GRASSI MAZZORANA: Falta de espaço? << 15 >>
 
 //Nereu Lopes Neto: pois ngm plantou << 11 >>
+
+//aaaaaaaaaaaaa: aaaaaaaaaaa << 1 >>
+
+//RENATO TORRES: Porque ninguém plantou.. é na verdade nem coqueiro tem aquilo são palmeiras << 1 >>
+
+//LILIAN NART GRASSI MAZZORANA: Escolhas também. << 1 >>
 
 Por que sair do bronze é tão difícil?
 //Michel Diogo Formigoni: não entendi << 1 >>
@@ -1096,6 +1240,8 @@ Por que sair do bronze é tão difícil?
 
 //Filipe Querino dos Santos: Desempenho << 28 >>
 
+//LILIAN NART GRASSI MAZZORANA: No meu caso eu pego um bronze. Mas depois de uns 10 banhos tomados já estou branca dinovo.. RSRS. Estou afinada comigo mesmo << 1 >>
+
 Por que fazer home office?
 //Edeval Torres Junior: Porque é diversão << 1 >>
 
@@ -1110,6 +1256,8 @@ Por que fazer home office?
 //Willi Villi Viana: Para ter mais fluidez no trabalho e agilidade nas atividades. << 142 >>
 
 //12345678910: testeteste << 7 >>
+
+//Lucas de Souza da Rosa: Pra poupar gasolina e ter mais conforto << 2 >>
 
 Por que além da festa de final de ano sempre fazemos outras festas também?
 //João Vitor Marques.: Todo dia é uma festa. << 1 >>
@@ -1131,11 +1279,13 @@ Por que 42?
 
 //Rafael Chagas: Porque 43 é outro número. << 1 >>
 
-//Lucas de Souza da Rosa: quarenta e dois << 1 >>
+//Lucas de Souza da Rosa: quarenta e dois << 4 >>
 
 //Juliano Cenci: me.rendered << 1 >>
 
 //Alexandre Soriano: Porque é o dobro da idade da Useall. << 26 >>
+
+//LILIAN NART GRASSI MAZZORANA: Depende do que estamos falando. << 1 >>
 
 Por que cooperativas de energia?
 //Kevin Marques: Porque as de água não precisavam de sistema << 1 >>
@@ -1155,6 +1305,10 @@ Por que cooperativas de energia?
 //LILIAN NART GRASSI MAZZORANA: Tem diversas cooperativas << 13 >>
 
 //Elton do Canto: porque é um mercado pouco explorado e que rende $$$ << 27 >>
+
+//LILIAN NART GRASSI MAZZORANA: Porque existem outras de outras atividades << 1 >>
+
+//LILIAN NART GRASSI MAZZORANA: Porque existem de diversas outras atividades << 1 >>
 
 Por que comércio e serviços?
 //Carolina Barreto Maximo Forgiarini: ????????????? << 22 >>
@@ -1181,6 +1335,10 @@ Por que não manter a cor verde da casa?
 //Guilherme De Luca: Porque era uma cor feia << 1 >>
 
 //Alvaro Brognoli: dasf hdfhasdfh a dfha sfhasfhasfh << 1 >>
+
+//LILIAN NART GRASSI MAZZORANA: No meu caso é porque desbotou rápido demais. Mudei a cor para branca. << 1 >>
+
+//Lucas de Souza da Rosa: Porque casa verde não fica tão legal << 2 >>
 
 Por que os cachorros da vizinha são tão barulhentos as vezes?
 //Guilherme Bortolotto Peritto: Por que eles gostam de uma revoada canina. << 3 >>
@@ -1220,6 +1378,10 @@ Por que desenhar coisas tão reais quanto elas são?
 
 //Guilherme Coelho: Por não que desenhar coisas tão reais quanto elas são? << 1 >>
 
+//LILIAN NART GRASSI MAZZORANA: Desafios, gosto << 1 >>
+
+//LILIAN NART GRASSI MAZZORANA: Desafios. Realização << 1 >>
+
 Por que investir em moedas que nem podemos tocar?
 //Carolina Barreto Maximo Forgiarini: ????????????????? << 2 >>
 
@@ -1245,6 +1407,8 @@ Por que investir em moedas que nem podemos tocar?
 
 //Alexandre Soriano: Porque o toque é desnecessário para sentir o valor. << 26 >>
 
+//LILIAN NART GRASSI MAZZORANA: Não sei. Sou do tempo de guardar dinheiro embaixo do colchão. rssrsr << 1 >>
+
 Por que esse layout?
 //EDSON LUIZ DAMAZIO JUNIOR: Para não desviar o foco que são as perguntas e respostas. << 25 >>
 
@@ -1266,6 +1430,10 @@ Por que pixels?
 //LILIAN NART GRASSI MAZZORANA: Já respondi << 2 >>
 
 //Alessandro Nunes dos Santos Junior: Pixel art é massa pra caramba << 1 >>
+
+//carolina b maximo forgiarini: ???????????????????????? << 11 >>
+
+//Edenilso Torres Zanoni: porque vários de algo pequeno pode amplificar a nitidez e representatividade, assim 1 célula / 1 corpo humano. << 1 >>
 
 Por que roxo?
 //Stephany Costa: Porque é a mistura de vermelho e azul e na Antiguidade, entre os povos fenícios, o roxo era uma cor nobre: o pigmento, chamado púrpura de tíria, era extraído dos caramujos marinhos. << 6 >>
@@ -1293,6 +1461,8 @@ Por que muitos não sabem cuidar de cactos?
 
 //Nério Frank da Silveira: Além de ser cultursesco, é a melhor forma de garantir mais 3 salgadaços de graça durante o ano kkk << 19 >>
 
+//teste: testesteste << 1 >>
+
 Por que ouvir música durante o trabalho?
 //Marco Antônio Accorsi Lisboa Filho: Para acalmar a mente << 32 >>
 
@@ -1305,6 +1475,10 @@ Por que ouvir música durante o trabalho?
 //Nério Frank da Silveira: nunca entendi quem faz. << 6 >>
 
 //João Paulo Pacheco da Silva: Música é tech, música é pop, música é vida, música é tudo << 6 >>
+
+//LILIAN NART GRASSI MAZZORANA: Seria bom. Mas aqui no suporte é difícil. << 1 >>
+
+//Lucas de Souza da Rosa: porque relaxa e desestressa, apesar de eu não ser muito fã da ideia << 2 >>
 
 Por que vidros escuros?
 //Kesley Ferreira Alves: Para ter mais privacidade << 23 >>
@@ -1342,7 +1516,7 @@ Por que dois monitores?
 
 //Lucas de Souza da Rosa: Não sei, só tenho um (obs.: dois seria bom) << 2 >>
 
-//LILIAN NART GRASSI MAZZORANA: Não sei. Trabalho com um. << 9 >>
+//LILIAN NART GRASSI MAZZORANA: Não sei. Trabalho com um. << 10 >>
 
 //Rafael Chagas: pq não aumentar a produtividade? << 2 >>
 
@@ -1355,6 +1529,10 @@ Por que dois monitores?
 //Filipe Querino dos Santos: Desempenho << 4 >>
 
 //Leonardo da Silva Serafim: Produtividade e melhores condições de trabalho também. << 11 >>
+
+//Lucas de Souza da Rosa: aqui no suporte m2 poucas pessoas tem dois monitores << 2 >>
+
+//Marcos Vinicius Cardoso: Otimizar trabalho << 1 >>
 
 Por que caminhar no parque depois do trabalho?
 //Weslen Jorge Lima Borges: Para arejar a cabeça e fazer exercícios. << 6 >>
@@ -1403,6 +1581,8 @@ Por que a primeira vela acesa do advento no domingo foi verde e não vermelha?
 
 //Nereu Lopes Neto: cor da esperança << 24 >>
 
+//LILIAN NART GRASSI MAZZORANA: Não sei responder essa pergunta << 1 >>
+
 Por que IZY?
 //João Vitor Fernandes Canuto: Pq sim.....é isso ai << 4 >>
 
@@ -1424,6 +1604,8 @@ Por que IZY?
 
 //Sandro Nazário: Sistema de Gestão Online para o controle administrativo e financeiro da sua empresa! << 9 >>
 
+//KatriniAlamar: testestestsetse << 1 >>
+
 Por que não?
 //Edeval Torres Junior: Porque não << 13 >>
 
@@ -1441,6 +1623,8 @@ Por que não?
 
 //Juliano Cenci: avisaSucesso << 13 >>
 
+//LILIAN NART GRASSI MAZZORANA: As vezes um NÃO é necessário. Expliquei mais na mesma resposta anterior. << 1 >>
+
 Por que o vinho seco é molhado?
 //João Vitor Fernandes Canuto: por que não é seco! << 1 >>
 
@@ -1456,6 +1640,8 @@ Por que o vinho seco é molhado?
 
 //Guilherme Crepaldi: porque está em estado liquido << 649 >>
 
+//LILIAN NART GRASSI MAZZORANA: Não sei dizer << 1 >>
+
 Por que tantos por quê?
 //Ângelo José da Rosa: Porque vocês instigar nossa curiosidade e fazer todo mundo ficar ansioso pra jogar(?) << 2 >>
 
@@ -1468,6 +1654,10 @@ Por que tantos por quê?
 //Douglas Dagostin Bittencourt: Boa pergunta! Essa vou ficar devendo. << 2 >>
 
 //Nereu Lopes Neto: num sei naum << 978 >>
+
+//LILIAN NART GRASSI MAZZORANA: Para entender melhor. << 1 >>
+
+//LILIAN NART GRASSI MAZZORANA: Para entender melhor << 1 >>
 
 Por que o terceiro andar é laranja?
 //Carlos Marcelo Carpes: Porque já está maduro << 1 >>
@@ -1507,6 +1697,12 @@ Por que continuar o Play 21?
 
 //Elton Jhons Stosl: Por que causa da diversão. << 7 >>
 
+//Isabel Cristina Colombo Duarte: Porque sim, porque foi massa, porque foi top, porque não ganhei nada no play21 e quero ganhar agora. << 33 >>
+
+//LILIAN NART GRASSI MAZZORANA: Confraternização. << 1 >>
+
+//Lucas de Souza da Rosa: porque foi legal << 1 >>
+
 Por que devolver a sala de jogos?
 //Davi Freitas da Silva: Pra rolar uma maior integração entre equipes << 1 >>
 
@@ -1535,6 +1731,12 @@ Por que Exaltasamba toca pagode e Zeca Pagodinho toca samba?
 
 //Guilherme Bortolotto Peritto: Por que são estilos diferentes << 1 >>
 
+//LILIAN NART GRASSI MAZZORANA: Não sei. Mas danço qualquer uma das musicas desses artistas. << 1 >>
+
+//LILIAN NART GRASSI MAZZORANA: Não sei dizer. Mas gosto de dançar as músicas deles. << 1 >>
+
+//LILIAN NART GRASSI MAZZORANA: Não sei. Mas danço as músicas deles << 1 >>
+
 Por que o Artini ainda não conseguiu postar uma imagem no grupo?
 //Luiz Filipe Medeiros de Costa: Porque ele não é digno de tal ato tão glamuroso e grandioso. << 3 >>
 
@@ -1543,6 +1745,8 @@ Por que o Artini ainda não conseguiu postar uma imagem no grupo?
 //LILIAN NART GRASSI MAZZORANA: Gente. Fui procurar essa pessoa. Quantas pessoas trabalham nessa empresa e a gente não conheci. Isso me assusta um pouco. << 16 >>
 
 //Rafael Chagas: pq o nome dele não é imagine << 1 >>
+
+//LILIAN NART GRASSI MAZZORANA: Vixi.Quem é Artini << 1 >>
 
 Por que precisamos lavar a toalha se já estamos limpos depois do banho?
 //Douglas Albino Rafael da Rosa: Por que ainda que tenhamos tomado banho, nosso corpo ainda possui bactérias que ficam na toalha << 13 >>
@@ -1574,6 +1778,12 @@ Por que infinitas possibilidades?
 
 //Filipe Querino dos Santos: Melhora a visualização das situações e aumenta produtividade. << 122 >>
 
+//Davi Freitas da Silva: Para fuçar esse site no intervalo << 1 >>
+
+//Edenilso Torres Zanoni: porque enquanto se há tempo sempre haverá novas possibilidades, oportunidades. << 1 >>
+
+//Lucas de Souza da Rosa: porque existem infinitas possibilidades << 2 >>
+
 Por que os gifs tem x3 no nome do arquivo?
 //Edeval Torres Junior: Porque é multiplicando que se ganha << 2 >>
 
@@ -1581,12 +1791,16 @@ Por que os gifs tem x3 no nome do arquivo?
 
 //LILIAN NART GRASSI MAZZORANA: Não sei também. << 4 >>
 
+//LILIAN NART GRASSI MAZZORANA: Não sei dizer << 1 >>
+
 Por que um torneio de Mario Kart?
 //Weslen Jorge Lima Borges: Para divertir o pessoal kkk << 3 >>
 
 //LILIAN NART GRASSI MAZZORANA: Não sei.. Mas sou do tempo do Mario. << 21 >>
 
 //Thiago Darós: Porque o layout possuia traços que remetia ao jogo e um torneio desse jogo, que é bastante simples, poderia ser divertido. << 20 >>
+
+//LILIAN NART GRASSI MAZZORANA: Diversão, confraternização, desafio. << 1 >>
 
 Por que o Weslen e o Gabriel Mandelli são tão curiosos?
 //Michel Diogo Formigoni: Porque é da natureza deles << 1 >>
@@ -1619,6 +1833,12 @@ Por que o Weslen e o Gabriel Mandelli são tão curiosos?
 
 //Michel Diogo Formigoni: A natureza deles << 28 >>
 
+//Jadson Sartor Laurindo: .asdasdasdasdasda << 6 >>
+
+//LILIAN NART GRASSI MAZZORANA: Não conheço muito bem eles pra responder. << 1 >>
+
+//LILIAN NART GRASSI MAZZORANA: Não sei. Não conheço muito bem eles pra falar. << 1 >>
+
 Por que invadir o "site" da Useall?
 //Catia berti da silva: Para dar emoção << 1 >>
 
@@ -1641,5 +1861,7 @@ Por que que a bota a gente calça, e a calça a gente bota?
 
 //Rafael Chagas: Porque se tiramos a tira, a tira atira na tia da tira. << 2 >>
 
+//LILIAN NART GRASSI MAZZORANA: Porque é assim que funciona << 1 >>
+
 Fase 1
-463 partcipantes
+552 partcipantes
