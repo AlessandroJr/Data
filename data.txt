@@ -195,6 +195,8 @@ Por que você sai da cama todos os dias?
 
 //João Vitor de Fraga Venancio: Esperança de alcançar meus objetivos futuros, me superar a cada dia e ter bons momentos com meus familiares e amigos. << 9 >>
 
+//Guilherme Bortolotto Peritto: Para levantar << 1 >>
+
 Por que você fica 8 horas e 48 minutos por dia tabalhando?
 //Weslen Jorge Lima Borges: Para não trabalhar no sábado. << 85 >>
 
@@ -328,9 +330,9 @@ Por que você fica 8 horas e 48 minutos por dia tabalhando?
 
 //Cléo Constantino: Para receber meu salário! << 1 >>
 
-//Cléo Constantino: Para receber meu salário no mês seguinte! << 1 >>
-
 //Cléo Constantino: Para receber meu salário! << 1 >>
+
+//Cléo Constantino: Para receber meu salário no mês seguinte! << 1 >>
 
 //Weslen Jorge Lima Borges: Para não trabalharmos no sábado. << 1 >>
 
@@ -424,7 +426,7 @@ Por que você fica 8 horas e 48 minutos por dia tabalhando?
 
 //Nereu Lopes Neto: testeeeeee << 10 >>
 
-//Otomar Rocha Speck: Para chegar no final do dia e ter a satisfação de ter ajudado alguém, contribuido com algo maior... ganhar ou passar algum conhecimento.... << 5 >>
+//Otomar Rocha Speck: Para chegar no final do dia e ter a satisfação de ter ajudado alguém, contribuido com algo maior... ganhar ou passar algum conhecimento.... << 7 >>
 
 //Alexandre Soriano: Porque ainda não criamos um método de trabalhar menos e entregar mais. << 26 >>
 
@@ -443,6 +445,12 @@ Por que você fica 8 horas e 48 minutos por dia tabalhando?
 //João Paulo Pacheco da Silva: A jornada de oito horas faz referência a reivindicação do movimento operário pela redução da jornada de trabalho e o estabelecimento das oito horas de trabalho diárias ou 48 horas semanais, que teve origem nas condições penosas de trabalho da Revolução Industrial na Grã Bretanha em meados do século XIX. Robert Owen difundiu a ideia que a qualidade do trabalho de um trabalhador tem uma relação diretamente proporcional com a qualidade de vida do mesmo e para qualificar a produção de cada trabalhador, é indispensável fornecer melhorias nas áreas de salários, habitação, higiene e educação, proibir o trabalho infantil e determinar uma quantidade máxima de horas de trabalho de dez horas e meia. Para 1817 ele formulou o objetivo do dia de oito horas e cunhou o lema de oito horas de trabalho, oito horas para viver e oito horas de descanso (8 hours labour, 8 hours recreation, 8 hours rest). Fonte: Confia (Wikipédia) << 6 >>
 
 //Douglas Steiner: Utilidade..... << 5 >>
+
+//Alessandro Junior: testando de novo fase 1 << 1 >>
+
+//Alexandre Soriano: Porque ainda não descobrimos que o que vale é a entrega, não o tempo que levou para entregar. << 26 >>
+
+//Alexandre Soriano: Porque não descobrimos ainda que a entrega vale mais do que o tempo para entregar. << 5 >>
 
 Por que você pensa em trabalho quando não deveria estar pensando em trabalho?
 //Rafael Dias Rocha: Porque está sobrecarregado no serviço << 4 >>
@@ -637,6 +645,14 @@ Por que você pensa em trabalho quando não deveria estar pensando em trabalho?
 
 //Alessandro Nunes dos Santos Junior: testando de novo << 1 >>
 
+//Leonardo S: çlasddasdsdasdasdas << 1 >>
+
+//Vitor Corrêa: :) << 2 >>
+
+//Guilherme Coelho: Por que você não pensa em trabalho quando deveria estar pensando em trabalho? << 1 >>
+
+//Guilherme Coelho: idem << 1 >>
+
 Por que as pessoas são massa?
 //Catia berti da silva: Nem todas hehehe << 45 >>
 
@@ -750,6 +766,10 @@ Por que isso?
 
 //Henrique da Rosa: Porque talvez não seja momento para aquilo << 2 >>
 
+//Otomar Rocha Speck: Valorizar o que fizemos, nossas conquistas << 2 >>
+
+//Leonardo S: klççlkdasdasdasdsdasdas << 1 >>
+
 Por que laranja?
 //KatriniAlamar: E agora?! será que é porque remete alegria e animo ou porque lembra fogo e estão sempre apagando fogo << 1 >>
 
@@ -757,9 +777,9 @@ Por que laranja?
 
 //Luiz Gustavo Uggioni Savi: Porque da laranja se faz o melhor suco << 47 >>
 
-//Rafael Dias Rocha: ................................... << 1 >>
-
 //Rafael Dias Rocha: ..................... << 1 >>
+
+//Rafael Dias Rocha: ................................... << 1 >>
 
 //Rafael Dias Rocha: ................................................. << 1 >>
 
@@ -951,6 +971,10 @@ Por que café saudável?
 
 //Rafael Chagas: já respondi essa pergunta << 5 >>
 
+//Vitor Corrêa: Para incentivar o cuidado com a saúde através da alimentação << 2 >>
+
+//Guilherme Coelho: Por que café não saudável? << 1 >>
+
 Por que fazer reuniões que poderiam ser um e-mail?
 //Weslen Jorge Lima Borges: Por que queremos o contato. << 1 >>
 
@@ -988,6 +1012,8 @@ Por que ir almoçar em Nova Veneza nos finais de ano?
 //Carlos Marcelo Carpes: Porque é 0800 << 5 >>
 
 //Rafael Chagas: nunca nem vi << 1 >>
+
+//Alexandre Soriano: Porque não dá para ir na Veneza original. << 5 >>
 
 Por que sempre comprar salgadinhos no aniversário?
 //Rafael Dias Rocha: Para ficar com cheiro de frituras << 4 >>
@@ -1109,6 +1135,8 @@ Por que 42?
 
 //Juliano Cenci: me.rendered << 1 >>
 
+//Alexandre Soriano: Porque é o dobro da idade da Useall. << 26 >>
+
 Por que cooperativas de energia?
 //Kevin Marques: Porque as de água não precisavam de sistema << 1 >>
 
@@ -1189,6 +1217,8 @@ Por que desenhar coisas tão reais quanto elas são?
 //Juliano Cenci: testandooooooooo << 2 >>
 
 //Willi Villi Viana: Para ter mais fluidez no trabalho e agilidade nas atividades. << 5 >>
+
+//Guilherme Coelho: Por não que desenhar coisas tão reais quanto elas são? << 1 >>
 
 Por que investir em moedas que nem podemos tocar?
 //Carolina Barreto Maximo Forgiarini: ????????????????? << 2 >>
@@ -1490,6 +1520,8 @@ Por que devolver a sala de jogos?
 
 //Alessandro Nunes dos Santos Junior: testando de novo << 1 >>
 
+//Alessandro Junior: Testanto fase 1 << 1 >>
+
 Por que Exaltasamba toca pagode e Zeca Pagodinho toca samba?
 //Catia berti da silva: Estilos musicais << 1 >>
 
@@ -1500,6 +1532,8 @@ Por que Exaltasamba toca pagode e Zeca Pagodinho toca samba?
 //Stephany Costa: Porque o Zeca Pagodinho não sabe o que é caviar, nem nunca viu, ele só ouviu falar. << 41 >>
 
 //Lucas Leonardo da C M Dias : Pela mesma razão que a estação de metrô Consolação fica na av. Paulista, e a estação Paulista fica na rua Consolação. << 1 >>
+
+//Guilherme Bortolotto Peritto: Por que são estilos diferentes << 1 >>
 
 Por que o Artini ainda não conseguiu postar uma imagem no grupo?
 //Luiz Filipe Medeiros de Costa: Porque ele não é digno de tal ato tão glamuroso e grandioso. << 3 >>
@@ -1608,4 +1642,4 @@ Por que que a bota a gente calça, e a calça a gente bota?
 //Rafael Chagas: Porque se tiramos a tira, a tira atira na tia da tira. << 2 >>
 
 Fase 1
-454 partcipantes
+463 partcipantes
